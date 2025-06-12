@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://damsonik95.github.io/laby/sitemap.xml
