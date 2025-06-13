@@ -101,3 +101,18 @@ footer {
     margin: 10px 0 5px;
     color: #2c3e50;
 }
+body {
+    opacity: 0;
+    transition: opacity 0.5s ease-in;
+}
+
+nav ul li a.active {
+    color: orange;
+    font-weight: bold;
+}
+
+.car:hover {
+    transform: scale(1.03);
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+}
